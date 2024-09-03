@@ -1,0 +1,88 @@
+-- This file contains the name of every kit that's available on https://kitbash3d.com and Cargo. If you modify this, please make sure to keep it in alphabetical order and add the '#' right in front of the kit name. Otherwise the script won't recognize it.
+-- Last update: 20.08.2024
+-- Last updated kit: Atlantis
+
+#Aftermath
+#Age Of Egypt
+#Americana
+#Ancients
+#Arch Vogue
+#Art Deco
+#Art Nouveau
+#Atlantis
+#Atom Punk
+#Brooklyn
+#Brutalist
+#Brutalist 2055
+#City In The Sky
+#City Streets
+#Colonial
+#Commercial City Cars
+#Construction Zone
+#Cyber District
+#Cyber Punk
+#Cyber Streets
+#Cyberpunk Interiors
+#Cyberpunk Vehicles
+#Dark Fantasy
+#Diesel Punk
+#DMZ
+#Elysium
+#Emergency Response
+#Enchanted
+#Enchanted Vehicles
+#Essentials City Cars
+#Every City
+#Favelas
+#Future Slums
+#Future Slums 2
+#Future Warfare
+#Gaea
+#Goliath
+#Havana Nights
+#Heavy Metal
+#High Tech Streets
+#Highways
+#Hong Kong
+#Industrial
+#Iron Forge
+#Los Angeles
+#Lunar Base
+#Manhattan
+#Medieval Marketplace
+#Medieval Siege
+#Military Outpost
+#Mission To Minerva
+#Municipal Cars
+#Neighborhood Shops
+#Neo Dubai
+#Neo NYC
+#Neo San Francisco
+#Neo Shanghai
+#Neo Tokyo
+#Neo Tokyo 2
+#Oasis
+#Outlaw
+#Outpost
+#Police Department
+#Refineries
+#Restaurants
+#Retail Stores
+#Roman Empire
+#Sci-Fi Industrial
+#Secret Labs
+#Shangri-La
+#Shogun
+#Soviet Blocks
+#Spaceships
+#Steam Punk
+#Storefronts
+#Treasure Island
+#Utopia
+#Valhalla
+#Victorian
+#Warfare
+#Warzone
+#Warzone Transport Vehicles
+#Wasteland
+#Wreckage

@@ -1,0 +1,106 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+dcd45182-8db0-498b-ba1b-37f9f0e84f20:Aftermath:Aftermath
+f7fa689a-87d5-4d32-86e7-b66486953beb:Age Of Egypt:Age Of Egypt
+8428a0b5-e0be-4749-921f-9a34de821c38:Americana:Americana
+ee5c707a-b406-427d-92e8-33654ec693ef:Ancients:Ancients
+0227f2f5-02e9-45b9-ac17-a414f30b89cb:Arch Vogue:Arch Vogue
+3c9bc785-7345-4622-b0f1-cbbde8ffd244:Art Deco:Art Deco
+7cff3e2e-a828-4e4a-8d02-d53755c98867:Art Nouveau:Art Nouveau
+e7318bee-c2c0-4a68-964b-204d2e592482:Atlantis:Atlantis
+1805bebb-295f-4e41-9a2c-b29faedc8d41:Atom Punk:Atom Punk
+1c44c742-27d1-45e1-b500-95f1322a1a96:Brooklyn:Brooklyn
+c3551555-44f9-4bbd-b1e6-0852f7a65ca6:Brutalist:Brutalist
+a609a9af-436d-439c-8fd6-f51938ce33e8:Brutalist 2055:Brutalist 2055
+8749abe0-b6fa-4261-9064-b862cbd92225:Cargo Exclusive:Cargo Exclusive
+4e8addde-f4a2-4923-aeda-61667f83cb76:Cargo Exclusive/Cyberpunk Interiors:Cargo Exclusive-Cyberpunk Interiors
+afae3672-b826-430f-b833-75aae7826ed1:Cargo Exclusive/Cyberpunk Interiors/Interiors:Cargo Exclusive-Cyberpunk Interiors-Interiors
+13755593-c1c9-491c-8e39-d15682a5027e:Cargo Exclusive/Cyberpunk Interiors/Single Models:Cargo Exclusive-Cyberpunk Interiors-Single Models
+b9b92c21-cd04-4ddb-a4a1-47b93d7d9a55:Cargo Exclusive/Emergency Response:Cargo Exclusive-Emergency Response
+a281ffcc-27ea-4837-93ab-8260753c4882:Cargo Exclusive/Emergency Response/Interiors:Cargo Exclusive-Emergency Response-Interiors
+1a141f57-cae3-4f74-865c-4711287fd0b1:Cargo Exclusive/Emergency Response/Single Models:Cargo Exclusive-Emergency Response-Single Models
+42ee71c8-3d80-4f9c-a156-48c3dbc7a461:Cargo Exclusive/Neighborhood Shops:Cargo Exclusive-Neighborhood Shops
+f92ff4ad-ab76-4e73-bc58-425e69204271:Cargo Exclusive/Neighborhood Shops/Interiors:Cargo Exclusive-Neighborhood Shops-Interiors
+c9195457-9881-42e5-96ae-e63e5b350a8e:Cargo Exclusive/Neighborhood Shops/Single Models:Cargo Exclusive-Neighborhood Shops-Single Models
+88bff78f-b800-4204-b3df-4971f726e780:Cargo Exclusive/Police Department:Cargo Exclusive-Police Department
+60610e87-b74b-466b-bd76-db8d0eb8113e:Cargo Exclusive/Police Department/Interior:Cargo Exclusive-Police Department-Interior
+ddc3dbd0-1b34-439a-83f7-743f7ed62622:Cargo Exclusive/Police Department/Single Models:Cargo Exclusive-Police Department-Single Models
+2a48fc81-4d57-4e29-a3f9-571ab529d812:Cargo Exclusive/Restaurants:Cargo Exclusive-Restaurants
+7d18f519-65c8-413f-8c6c-83e2dfd44ab6:Cargo Exclusive/Restaurants/Interiors:Cargo Exclusive-Restaurants-Interiors
+50a32473-89ef-4125-95e9-90b321c9d569:Cargo Exclusive/Restaurants/Single Models:Cargo Exclusive-Restaurants-Single Models
+fd13b232-a3c2-4f77-9dae-48af8ed45575:Cargo Exclusive/Retail Stores:Cargo Exclusive-Retail Stores
+1ee98d6a-ffb1-4520-bcc2-19df6302ecce:Cargo Exclusive/Retail Stores/Interiors:Cargo Exclusive-Retail Stores-Interiors
+a11454fb-d55a-4438-8479-d9e80c8a149a:Cargo Exclusive/Retail Stores/Single Models:Cargo Exclusive-Retail Stores-Single Models
+70ef5d52-146c-4f2f-9306-a1d7a4c164fa:Cargo Vehicles:Cargo Vehicles
+8f472f06-66f0-4cc0-8b89-1a4ef6719bde:Cargo Vehicles/Commercial City Cars:Cargo Vehicles-Commercial City Cars
+839f9f88-5316-4d15-aa8f-cf7bde34e86a:Cargo Vehicles/Cyberpunk Vehicles:Cargo Vehicles-Cyberpunk Vehicles
+e55219e6-8db7-40b8-ae66-45ecada40429:Cargo Vehicles/Enchanted Vehicles:Cargo Vehicles-Enchanted Vehicles
+8025b639-3bc3-4ce4-b3d3-76fe1a101dc1:Cargo Vehicles/Essentials City Cars:Cargo Vehicles-Essentials City Cars
+bbb4a505-48aa-470e-ab2a-af349e0938bd:Cargo Vehicles/Municipal Cars:Cargo Vehicles-Municipal Cars
+988f5301-296d-4cbf-95ab-38047264caf6:Cargo Vehicles/Warzone Transport Vehicles:Cargo Vehicles-Warzone Transport Vehicles
+1d7cf484-7b6c-4a34-a52b-f857b36dbb66:City In The Sky:City In The Sky
+d302f92c-6c49-4522-822f-c868fda902d3:City Streets:City Streets
+c405e8e0-a24f-44d1-8e46-d3382e678c38:Colonial:Colonial
+66d99054-a548-40e0-83fc-210ca61fc5ec:Construction Zone:Construction Zone
+121e320e-ebc6-4ed1-8738-ad0568d35c2f:Cyber District:Cyber District
+7b9e63d0-6358-401a-bdc5-16e52945a761:Cyber Punk:Cyber Punk
+c4d29a9c-31a2-451e-ab5e-04ce8daad56f:Cyber Streets:Cyber Streets
+f024c3aa-9afc-465e-a57d-b566e5ceb9c9:DMZ:DMZ
+de218446-e7d8-4eef-9015-a5a40f9de791:Dark Fantasy:Dark Fantasy
+50417487-329c-45ce-935b-0bfb79933339:Diesel Punk:Diesel Punk
+f0c691d7-5ebc-4926-8441-904d29c5a6ec:Elysium:Elysium
+c4c4aa06-eb75-480c-aeb3-69d0f0839312:Enchanted:Enchanted
+aaf836dc-7fd1-405c-8111-3a266ba01d32:Every City:Every City
+9d70469f-e8e7-4d7b-902d-6eee68da8ff0:Favelas:Favelas
+5b2019df-6396-4ac2-81f1-95b13587738c:Future Slums:Future Slums
+2fcf620b-8191-4e05-b09c-1f979cbdf1ee:Future Slums 2:Future Slums 2
+907ef233-4295-49c3-a92c-24f67def7a38:Future Warfare:Future Warfare
+8c4aa3af-019b-45ef-a5e8-3abdd8eaa82b:Gaea:Gaea
+e5fd56f2-2668-44d0-80c3-057f2a61dac1:Goliath:Goliath
+50a03e87-62dd-47b4-a3b9-6be7ba41a918:Havana Nights:Havana Nights
+cdf42e67-0487-4762-956e-131bfdb1c6b2:Heavy Metal:Heavy Metal
+dd980176-6714-48c3-bcc8-8ad62841155f:High Tech Streets:High Tech Streets
+813a0a37-bad3-4831-8191-4a571f252fa3:Highways:Highways
+faffa39f-5f86-46a5-bcf9-6977a331039b:Hong Kong:Hong Kong
+c09f0d82-9482-4e3b-b582-eb826161a409:Industrial:Industrial
+5c1d5d40-7ccd-4a84-a000-49de3000582c:Iron Forge:Iron Forge
+34e7ae5f-ce18-4fd5-9730-45fe30df7242:Los Angeles:Los Angeles
+e4f5242b-df07-4f69-8ffc-b799ac241c58:Lunar Base:Lunar Base
+df94e219-88b2-4389-942c-f8e861b571a1:Manhattan:Manhattan
+03c3d703-1474-4cfc-a6f2-543c28a989fa:Medieval Marketplace:Medieval Marketplace
+c03a6e38-0b51-4810-a4b5-7563601a7015:Medieval Siege:Medieval Siege
+8d75513f-1f3e-4861-b90b-8d687ba743c8:Military Outpost:Military Outpost
+a1efbd59-0385-4068-961b-3ef2a3c157cf:Mission To Minerva:Mission To Minerva
+7d4c717c-218b-4abd-bfc6-565938f36540:Neo Dubai:Neo Dubai
+11ff4bc7-cbd1-4d4c-923b-40bff4bc26c1:Neo NYC:Neo NYC
+ba877e53-1043-4940-a2b8-585108eaee89:Neo San Francisco:Neo San Francisco
+3eb938a1-116a-4a90-909b-29957d3d0ad1:Neo Shanghai:Neo Shanghai
+ee5340a1-4fbb-475e-a23c-b9681331f70e:Neo Tokyo:Neo Tokyo
+9bcdd939-8ecd-4d4e-886b-7f8419b10e07:Neo Tokyo 2:Neo Tokyo 2
+fa24cbff-640d-4a8c-89dc-eb41b43c433d:Oasis:Oasis
+30ba37b4-f79d-463a-a6c1-68bfe918a587:Outlaw:Outlaw
+ac99ca52-949a-4f9c-ad24-22a743acf4c6:Outpost:Outpost
+456b63e8-2513-4605-b1a6-ae7c333fa4eb:Refineries:Refineries
+071ce44a-8320-4a0b-bb98-be6e7599b740:Roman Empire:Roman Empire
+93971fed-59ae-4969-84a7-4d09b08b37c8:Sci-Fi Industrial:Sci-Fi Industrial
+e263d1a9-7b26-4d80-afa2-db68b9066da6:Secret Labs:Secret Labs
+9006b434-71e9-422f-9a3e-6d17d5bab5c7:Shangri-La:Shangri-La
+b33800f5-cd14-404c-ad0a-4c54d1fd4688:Shogun:Shogun
+c4eba527-9c36-4909-80c7-ec138643a05e:Soviet Blocks:Soviet Blocks
+a50ec5ce-6ffb-4d97-97b0-d8d3f36cc58a:Spaceships:Spaceships
+6876c789-a756-44e8-8e97-93935a9c54ea:Steam Punk:Steam Punk
+9d2f2cfe-ccc5-4f9c-9e81-5e84f7e88120:Storefronts:Storefronts
+93233395-8abb-4506-965f-d4c3fd406183:Treasure Islands:Treasure Islands
+42fb8086-f8b4-4b17-b6f6-59ae5a9f8219:Utopia:Utopia
+cac26055-2863-4a29-b4b3-c264fdcff96b:Valhalla:Valhalla
+dd6014a7-bf23-494b-9a24-6dc2b438eb15:Victorian:Victorian
+eefe75c3-5282-4ebf-bd67-65b3dafa9718:Warfare:Warfare
+ad122691-2cfb-4f64-ad4e-9331ebdbebd3:Warzone:Warzone
+6e6be381-cf7d-46ce-9ee2-68402a6b0ec1:Wastelands:Wastelands
+ad199dac-99f0-46a4-8e45-ca316a37ff8a:Wreckage:Wreckage
