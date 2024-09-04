@@ -1,0 +1,13 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Download" Height="550" Width="800" Background="#FF080808" ResizeMode="CanMinimize">
+    <Grid>
+        <Label x:Name="header" Content="Download Kits" FontSize="36" FontWeight="Bold" FontFamily="Heebo Black" Foreground="White" Margin="24,20,514,453"/>
+        <ListBox x:Name="downloadSelectionList" FontFamily="Bahnschrift" FontSize="15" Background="#FF0C0C0C" Foreground="White" HorizontalContentAlignment="Center" Margin="27,119,27,109" SelectionMode="Multiple" BorderBrush="#FFFBAD18"/>
+        <Button x:Name="selectAllButton" Background="#FFFBAD18" BorderBrush="#FFA47417" Height="34" Foreground="Black" FontFamily="Bahnschrift" FontSize="14" Padding="4" Margin="572,31,136,453" Content="Select All"/>
+        <Button x:Name="deselectButton" Content="Deselect" Background="#FFFBAD18" BorderBrush="#FFA47417" Height="34" Foreground="Black" FontFamily="Bahnschrift" FontSize="14" Padding="4" Margin="681,31,27,453"/>
+        <Button x:Name="downloadButton" Content="Download" HorizontalAlignment="Center" Margin="0,459,0,0" VerticalAlignment="Top" Width="164" Background="#FF040404" BorderBrush="#FFFBAD18" Height="34" Foreground="White" FontFamily="Bahnschrift" FontSize="14" Padding="4"/>
+
+    </Grid>
+</Window>
