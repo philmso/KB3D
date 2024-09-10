@@ -1,6 +1,6 @@
 -- This file contains the name of every kit that's available on https://kitbash3d.com and Cargo. If you modify this, please make sure to keep it in alphabetical order and add the '#' right in front of the kit name. Otherwise the script won't recognize it.
--- Last update: 20.08.2024
--- Last updated kit: Atlantis
+-- Last update: 10.09.2024
+-- Last updated kit: Warzone Assault Vehicles
 
 #Aftermath
 #Age Of Egypt
@@ -83,6 +83,7 @@
 #Victorian
 #Warfare
 #Warzone
+#Warzone Assault Vehicles
 #Warzone Transport Vehicles
 #Wasteland
 #Wreckage
