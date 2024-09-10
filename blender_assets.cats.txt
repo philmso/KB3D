@@ -43,6 +43,7 @@ a11454fb-d55a-4438-8479-d9e80c8a149a:Cargo Exclusive/Retail Stores/Single Models
 e55219e6-8db7-40b8-ae66-45ecada40429:Cargo Vehicles/Enchanted Vehicles:Cargo Vehicles-Enchanted Vehicles
 8025b639-3bc3-4ce4-b3d3-76fe1a101dc1:Cargo Vehicles/Essentials City Cars:Cargo Vehicles-Essentials City Cars
 bbb4a505-48aa-470e-ab2a-af349e0938bd:Cargo Vehicles/Municipal Cars:Cargo Vehicles-Municipal Cars
+7e6ae317-ae38-4b20-9e09-509437be59c1:Cargo Vehicles/Warzone Assault Vehicles:Cargo Vehicles-Warzone Assault Vehicles
 988f5301-296d-4cbf-95ab-38047264caf6:Cargo Vehicles/Warzone Transport Vehicles:Cargo Vehicles-Warzone Transport Vehicles
 1d7cf484-7b6c-4a34-a52b-f857b36dbb66:City In The Sky:City In The Sky
 d302f92c-6c49-4522-822f-c868fda902d3:City Streets:City Streets
