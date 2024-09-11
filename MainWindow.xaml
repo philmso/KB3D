@@ -68,6 +68,6 @@
         <Button x:Name="selectKitsButton" Content="Select Kits" HorizontalAlignment="Left" Margin="236,277,0,0" VerticalAlignment="Top" Width="164" Background="#FF040404" BorderBrush="#FFFBAD18" Height="25" Foreground="White" FontFamily="Bahnschrift" FontSize="14" Padding="4"/>
         <Button x:Name="clearButton" Content="Clear" HorizontalAlignment="Left" Margin="413,277,0,0" VerticalAlignment="Top" Width="164" Background="#FF040404" BorderBrush="#FFFBAD18" Height="25" Foreground="White" FontFamily="Bahnschrift" FontSize="14" Padding="4"/>
         <Button x:Name="downloadKitsButton" Content="Download Kits" HorizontalAlignment="Center" Margin="0,134,0,0" VerticalAlignment="Top" Width="164" Background="#FFFBAD18" BorderBrush="#FFA47417" Height="34" Foreground="Black" FontFamily="Bahnschrift" FontSize="14" Padding="4"/>
-
+        <ProgressBar x:Name="progressBar" HorizontalAlignment="Center" Height="36" Margin="0,460,0,0" VerticalAlignment="Top" Width="500" Foreground="#FFFBAD18" BorderBrush="#FF565656" Background="#FF0E0E0E"/>
     </Grid>
 </Window>
