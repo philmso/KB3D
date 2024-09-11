@@ -1,7 +1,7 @@
 ﻿<Window x:Name="window"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Kit Manager" Height="510" Width="800" Background="#FF080808" ResizeMode="CanMinimize">
+        Title="Kit Manager" Height="550" Width="800" Background="#FF080808" ResizeMode="CanMinimize">
 
 
     <Grid>
