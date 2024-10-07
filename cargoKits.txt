@@ -1,6 +1,6 @@
 -- This file contains the name of every kit that's available on https://kitbash3d.com and Cargo. If you modify this, please make sure to keep it in alphabetical order and add the '#' right in front of the kit name. Otherwise the script won't recognize it.
--- Last update: 10.09.2024
--- Last updated kit: Warzone Assault Vehicles
+-- Last update: 07.10.2024
+-- Last updated kit: Secrets Of The Luminara
 
 #Aftermath
 #Age Of Egypt
@@ -71,6 +71,7 @@
 #Roman Empire
 #Sci-Fi Industrial
 #Secret Labs
+#Secrets Of The Luminara
 #Shangri-La
 #Shogun
 #Soviet Blocks
