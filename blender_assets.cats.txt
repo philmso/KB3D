@@ -91,6 +91,7 @@ ac99ca52-949a-4f9c-ad24-22a743acf4c6:Outpost:Outpost
 071ce44a-8320-4a0b-bb98-be6e7599b740:Roman Empire:Roman Empire
 93971fed-59ae-4969-84a7-4d09b08b37c8:Sci-Fi Industrial:Sci-Fi Industrial
 e263d1a9-7b26-4d80-afa2-db68b9066da6:Secret Labs:Secret Labs
+b9799584-a662-46eb-a609-d39e595940df:Secrets Of The Luminara:Secrets Of The Luminara
 9006b434-71e9-422f-9a3e-6d17d5bab5c7:Shangri-La:Shangri-La
 b33800f5-cd14-404c-ad0a-4c54d1fd4688:Shogun:Shogun
 c4eba527-9c36-4909-80c7-ec138643a05e:Soviet Blocks:Soviet Blocks
