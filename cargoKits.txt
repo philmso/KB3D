@@ -1,6 +1,6 @@
 -- This file contains the name of every kit that's available on https://kitbash3d.com and Cargo. If you modify this, please make sure to keep it in alphabetical order and add the '#' right in front of the kit name. Otherwise the script won't recognize it.
--- Last update: 07.10.2024
--- Last updated kit: Secrets Of The Luminara
+-- Last update: 22.10.2024
+-- Last updated kit: Japanese Neighborhoods
 
 #Aftermath
 #Age Of Egypt
@@ -46,6 +46,7 @@
 #Hong Kong
 #Industrial
 #Iron Forge
+#Japanese Neighborhoods
 #Los Angeles
 #Lunar Base
 #Manhattan
