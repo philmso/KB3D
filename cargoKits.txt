@@ -1,11 +1,12 @@
 -- This file contains the name of every kit that's available on https://kitbash3d.com and Cargo. If you modify this, please make sure to keep it in alphabetical order and add the '#' right in front of the kit name. Otherwise the script won't recognize it.
--- Last update: 22.10.2024
--- Last updated kit: Japanese Neighborhoods
+-- Last update: 20.11.2024
+-- Last updated kit: Apartment Interiors
 
 #Aftermath
 #Age Of Egypt
 #Americana
 #Ancients
+#Apartment Interiors
 #Arch Vogue
 #Art Deco
 #Art Nouveau
