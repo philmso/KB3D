@@ -19,6 +19,9 @@ e7318bee-c2c0-4a68-964b-204d2e592482:Atlantis:Atlantis
 c3551555-44f9-4bbd-b1e6-0852f7a65ca6:Brutalist:Brutalist
 a609a9af-436d-439c-8fd6-f51938ce33e8:Brutalist 2055:Brutalist 2055
 8749abe0-b6fa-4261-9064-b862cbd92225:Cargo Exclusive:Cargo Exclusive
+b4a77ec5-7690-4716-92df-3e80f837c0c6:Cargo Exclusive/Apartment Interiors:Cargo Exclusive-Apartment Interiors
+04326ab9-4bf1-42db-96e2-79400e954850:Cargo Exclusive/Apartment Interiors/Interiors:Cargo Exclusive-Apartment Interiors-Interiors
+7ccf3a2c-154c-4f93-8f5e-d780a8387351:Cargo Exclusive/Apartment Interiors/Single Models:Cargo Exclusive-Apartment Interiors-Single Models
 4e8addde-f4a2-4923-aeda-61667f83cb76:Cargo Exclusive/Cyberpunk Interiors:Cargo Exclusive-Cyberpunk Interiors
 afae3672-b826-430f-b833-75aae7826ed1:Cargo Exclusive/Cyberpunk Interiors/Interiors:Cargo Exclusive-Cyberpunk Interiors-Interiors
 13755593-c1c9-491c-8e39-d15682a5027e:Cargo Exclusive/Cyberpunk Interiors/Single Models:Cargo Exclusive-Cyberpunk Interiors-Single Models
