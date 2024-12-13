@@ -109,4 +109,5 @@ dd6014a7-bf23-494b-9a24-6dc2b438eb15:Victorian:Victorian
 eefe75c3-5282-4ebf-bd67-65b3dafa9718:Warfare:Warfare
 ad122691-2cfb-4f64-ad4e-9331ebdbebd3:Warzone:Warzone
 6e6be381-cf7d-46ce-9ee2-68402a6b0ec1:Wastelands:Wastelands
+1f33a723-9962-44cb-b5f6-14d803e21b8a:World War Two:World War Two
 ad199dac-99f0-46a4-8e45-ca316a37ff8a:Wreckage:Wreckage
