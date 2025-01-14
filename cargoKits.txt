@@ -51,6 +51,7 @@
 #Los Angeles
 #Lunar Base
 #Manhattan
+#Mech Wars
 #Medieval Marketplace
 #Medieval Siege
 #Military Outpost
