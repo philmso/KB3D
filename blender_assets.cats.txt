@@ -45,6 +45,7 @@ a11454fb-d55a-4438-8479-d9e80c8a149a:Cargo Exclusive/Retail Stores/Single Models
 839f9f88-5316-4d15-aa8f-cf7bde34e86a:Cargo Vehicles/Cyberpunk Vehicles:Cargo Vehicles-Cyberpunk Vehicles
 e55219e6-8db7-40b8-ae66-45ecada40429:Cargo Vehicles/Enchanted Vehicles:Cargo Vehicles-Enchanted Vehicles
 8025b639-3bc3-4ce4-b3d3-76fe1a101dc1:Cargo Vehicles/Essentials City Cars:Cargo Vehicles-Essentials City Cars
+0a624612-2fd9-474f-a393-58bcba00c268:Cargo Vehicles/Mech Wars:Cargo Vehicles-Mech Wars
 bbb4a505-48aa-470e-ab2a-af349e0938bd:Cargo Vehicles/Municipal Cars:Cargo Vehicles-Municipal Cars
 7e6ae317-ae38-4b20-9e09-509437be59c1:Cargo Vehicles/Warzone Assault Vehicles:Cargo Vehicles-Warzone Assault Vehicles
 988f5301-296d-4cbf-95ab-38047264caf6:Cargo Vehicles/Warzone Transport Vehicles:Cargo Vehicles-Warzone Transport Vehicles
@@ -78,7 +79,6 @@ c09f0d82-9482-4e3b-b582-eb826161a409:Industrial:Industrial
 34e7ae5f-ce18-4fd5-9730-45fe30df7242:Los Angeles:Los Angeles
 e4f5242b-df07-4f69-8ffc-b799ac241c58:Lunar Base:Lunar Base
 df94e219-88b2-4389-942c-f8e861b571a1:Manhattan:Manhattan
-0a624612-2fd9-474f-a393-58bcba00c268:Mech Wars:Mech Wars
 03c3d703-1474-4cfc-a6f2-543c28a989fa:Medieval Marketplace:Medieval Marketplace
 c03a6e38-0b51-4810-a4b5-7563601a7015:Medieval Siege:Medieval Siege
 8d75513f-1f3e-4861-b90b-8d687ba743c8:Military Outpost:Military Outpost
