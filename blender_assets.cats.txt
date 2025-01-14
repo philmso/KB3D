@@ -78,6 +78,7 @@ c09f0d82-9482-4e3b-b582-eb826161a409:Industrial:Industrial
 34e7ae5f-ce18-4fd5-9730-45fe30df7242:Los Angeles:Los Angeles
 e4f5242b-df07-4f69-8ffc-b799ac241c58:Lunar Base:Lunar Base
 df94e219-88b2-4389-942c-f8e861b571a1:Manhattan:Manhattan
+0a624612-2fd9-474f-a393-58bcba00c268:Mech Wars:Mech Wars
 03c3d703-1474-4cfc-a6f2-543c28a989fa:Medieval Marketplace:Medieval Marketplace
 c03a6e38-0b51-4810-a4b5-7563601a7015:Medieval Siege:Medieval Siege
 8d75513f-1f3e-4861-b90b-8d687ba743c8:Military Outpost:Military Outpost
