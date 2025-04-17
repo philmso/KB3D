@@ -76,6 +76,7 @@ faffa39f-5f86-46a5-bcf9-6977a331039b:Hong Kong:Hong Kong
 c09f0d82-9482-4e3b-b582-eb826161a409:Industrial:Industrial
 5c1d5d40-7ccd-4a84-a000-49de3000582c:Iron Forge:Iron Forge
 507e3c78-2fbf-4ae6-9614-f0791cf31341:Japanese Neighborhoods:Japanese Neighborhoods
+649f196a-48f5-45df-8438-4ade4165cd3c:London:London
 34e7ae5f-ce18-4fd5-9730-45fe30df7242:Los Angeles:Los Angeles
 e4f5242b-df07-4f69-8ffc-b799ac241c58:Lunar Base:Lunar Base
 df94e219-88b2-4389-942c-f8e861b571a1:Manhattan:Manhattan
