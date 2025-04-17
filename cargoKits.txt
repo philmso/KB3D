@@ -80,6 +80,7 @@
 #Shogun
 #Soviet Blocks
 #Spaceships
+#Spaceships Armada
 #Steam Punk
 #Storefronts
 #Treasure Island
