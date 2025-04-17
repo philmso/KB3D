@@ -48,6 +48,7 @@
 #Industrial
 #Iron Forge
 #Japanese Neighborhoods
+#London
 #Los Angeles
 #Lunar Base
 #Manhattan
