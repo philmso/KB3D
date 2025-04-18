@@ -50,6 +50,7 @@
 #Japanese Neighborhoods
 #London
 #Los Angeles
+#Lovecraft
 #Lunar Base
 #Manhattan
 #Mech Wars
