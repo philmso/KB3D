@@ -19,6 +19,7 @@
 #City Streets
 #Colonial
 #Commercial City Cars
+#Construction Vehicles
 #Construction Zone
 #Cyber District
 #Cyber Punk
