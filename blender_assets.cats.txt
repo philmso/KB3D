@@ -42,6 +42,7 @@ fd13b232-a3c2-4f77-9dae-48af8ed45575:Cargo Exclusive/Retail Stores:Cargo Exclusi
 a11454fb-d55a-4438-8479-d9e80c8a149a:Cargo Exclusive/Retail Stores/Single Models:Cargo Exclusive-Retail Stores-Single Models
 70ef5d52-146c-4f2f-9306-a1d7a4c164fa:Cargo Vehicles:Cargo Vehicles
 8f472f06-66f0-4cc0-8b89-1a4ef6719bde:Cargo Vehicles/Commercial City Cars:Cargo Vehicles-Commercial City Cars
+18d57532-c921-4cdf-a04d-773f59bf1b37:Cargo Vehicles/Construction Vehicles:Cargo Vehicles-Construction Vehicles
 839f9f88-5316-4d15-aa8f-cf7bde34e86a:Cargo Vehicles/Cyberpunk Vehicles:Cargo Vehicles-Cyberpunk Vehicles
 e55219e6-8db7-40b8-ae66-45ecada40429:Cargo Vehicles/Enchanted Vehicles:Cargo Vehicles-Enchanted Vehicles
 8025b639-3bc3-4ce4-b3d3-76fe1a101dc1:Cargo Vehicles/Essentials City Cars:Cargo Vehicles-Essentials City Cars
