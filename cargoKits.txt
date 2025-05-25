@@ -67,6 +67,7 @@
 #Neo Shanghai
 #Neo Tokyo
 #Neo Tokyo 2
+#Noir Futurism
 #Oasis
 #Outlaw
 #Outpost
