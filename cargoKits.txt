@@ -12,6 +12,7 @@
 #Art Nouveau
 #Atlantis
 #Atom Punk
+#Black Market
 #Brooklyn
 #Brutalist
 #Brutalist 2055
@@ -40,12 +41,14 @@
 #Future Slums 2
 #Future Warfare
 #Gaea
+#Ghost Realm
 #Goliath
 #Havana Nights
 #Heavy Metal
 #High Tech Streets
 #Highways
 #Hong Kong
+#House Of Horror
 #Industrial
 #Iron Forge
 #Japanese Neighborhoods
@@ -98,4 +101,3 @@
 #Wasteland
 #World War Two
 #Wreckage
-
