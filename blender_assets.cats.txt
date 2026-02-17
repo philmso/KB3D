@@ -96,6 +96,7 @@ ba877e53-1043-4940-a2b8-585108eaee89:Neo San Francisco:Neo San Francisco
 3eb938a1-116a-4a90-909b-29957d3d0ad1:Neo Shanghai:Neo Shanghai
 ee5340a1-4fbb-475e-a23c-b9681331f70e:Neo Tokyo:Neo Tokyo
 9bcdd939-8ecd-4d4e-886b-7f8419b10e07:Neo Tokyo 2:Neo Tokyo 2
+7c1a74b4-baef-4c75-905a-9e5867d1c431:New Delhi:New Delhi
 839cff97-8046-4d12-801d-8a8cf983596f:Noir Futurism:Noir Futurism
 fa24cbff-640d-4a8c-89dc-eb41b43c433d:Oasis:Oasis
 30ba37b4-f79d-463a-a6c1-68bfe918a587:Outlaw:Outlaw
