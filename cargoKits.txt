@@ -1,6 +1,6 @@
 -- This file contains the name of every kit that's available on https://kitbash3d.com and Cargo. If you modify this, please make sure to keep it in alphabetical order and add the '#' right in front of the kit name. Otherwise the script won't recognize it.
--- Last update: 20.11.2024
--- Last updated kit: Apartment Interiors
+-- Last update: 17.02.2026
+-- Last updated kit: New Delhi
 
 #Aftermath
 #Age Of Egypt
@@ -70,6 +70,7 @@
 #Neo Shanghai
 #Neo Tokyo
 #Neo Tokyo 2
+#New Delhi
 #Noir Futurism
 #Oasis
 #Outlaw
@@ -101,3 +102,4 @@
 #Wasteland
 #World War Two
 #Wreckage
+
